@@ -13,7 +13,7 @@
 
 ## 🎬 Demo
 
-👉 **[Live Demo](https://YOUR_USERNAME.github.io/agent-evolution/)**
+👉 **[Live Demo](https://tonnychiulab.github.io/agent-evolution/)**
 
 20 個 AI Agent 在 3D Reward Landscape 上透過強化學習（RL）逐漸找到最佳策略。從紅色笨蛋進化成紫色天才的全過程，配上星爺等級的浮誇字幕。
 
